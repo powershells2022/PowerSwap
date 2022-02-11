@@ -1,0 +1,50 @@
+{% if user.role_keys contains 'partneradmin' or user.role_keys contains 'partnermanager' or user.role_keys contains 'partnerseller' %}
+  {% include 'Partner Dashboard' %}
+{% else %}
+<section class="page_section section-landing">
+  <div id="mainContent" class="container" role="main">
+    <div class="row ">
+      <div class="col-md-12 text-center">
+        <h1 class="section-landing-heading">{% editable snippets 'Home/Title' default: resx['Partner_Default_Title'] %}</h1>
+      </div>
+    </div>
+  </div>
+  <div class="layer_down">&nbsp;</div>
+</section>
+<section class="page_section">
+  <div class="layer_up">&nbsp;</div>
+  <div class="container">
+    <div class="row prg-dt-home">
+      <div class="col-md-12 text_center-mobile">
+        <h1 aria-label="{{ snippets['Program Details'] | default: resx['Program_Details'] | h }}">{% editable snippets "Program Details" default: resx["Program_Details"] type: 'text' tag: 'span' %}</h1>
+        {% editable page 'adx_copy' %}
+        <a href="/partner-program/partner-program-details/" class="btn btn-primary btn-program-details btn-lg-home" title="{{ snippets['Home/ProgramDetailsButton'] | default: resx['View_More'] | h }}">{{ snippets['Home/ProgramDetailsButton'] | default: resx['View_More'] | h }}</a>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="page_section section-default color-inverse">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4 col-md-offset-7 text_center-mobile">
+        <h1 aria-label="{{ snippets['Become a Partner'] | default: resx['Become_A_Partner'] | h }}">{% editable snippets "Become a Partner" default: resx["Become_A_Partner"] type: 'text' tag: 'span' %}</h1>
+        {% editable snippets "Become a Partner Description" %}
+        <a href="/partner-program/become-a-partner/" class="btn btn-primary btn-lg-home" title="{{ snippets['Home/BecomeAPartnerButton'] | default: resx['Join_Us'] | h }}">{{ snippets['Home/BecomeAPartnerButton'] | default: resx['Join_Us'] | h }}</a>
+      </div>
+    </div>
+  </div>
+</section>
+{% endif %}
+<section class="page_section section-diagonal-top color-inverse">
+  <div class="section-diagonal-top-content">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-5 text-center">
+          <h1 aria-label="{{ snippets['FAQ'] | default: resx['FAQ'] | h }}">{% editable snippets "FAQ" default: resx["FAQ"] type: 'text' tag: 'span' %}</h1>
+          {% editable snippets "FAQ Description" %}
+          <a href="/partner-program/partner-program-FAQs/" class="btn btn-info-home btn-lg-home" title="{{ snippets['Home/FaqButton'] | default: resx['View_More'] | h }}">{{ snippets['Home/FaqButton'] | default: resx['View_More'] | h }}</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

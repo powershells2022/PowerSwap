@@ -1,0 +1,12 @@
+adx_append: false
+adx_appendto: false
+adx_create: true
+adx_delete: false
+adx_entitylogicalname: lead
+adx_entityname: Contact Us permission to create Lead
+adx_entitypermission_webrole:
+- 69e1d120-6098-41a0-9d7d-78bf5ea1702b
+adx_entitypermissionid: 8d89c017-968a-ec11-93b0-0022489de525
+adx_read: false
+adx_scope: 756150000
+adx_write: false

@@ -1,0 +1,13 @@
+adx_append: true
+adx_appendto: true
+adx_create: true
+adx_delete: true
+adx_entitylogicalname: adx_portalcomment
+adx_entityname: Partner Access to Customer Case Portal Comments
+adx_entitypermission_webrole: []
+adx_entitypermissionid: 5131659d-b913-e611-80d4-00155db452e5
+adx_parententitypermission: cc479703-b813-e611-80d4-00155db452e5
+adx_parentrelationship: incident_adx_portalcomments
+adx_read: true
+adx_scope: 756150003
+adx_write: true

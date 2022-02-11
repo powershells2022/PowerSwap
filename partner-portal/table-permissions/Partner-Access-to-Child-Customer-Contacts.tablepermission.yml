@@ -1,0 +1,13 @@
+adx_append: true
+adx_appendto: true
+adx_create: false
+adx_delete: false
+adx_entitylogicalname: contact
+adx_entityname: Partner Access to Child Customer Contacts
+adx_entitypermission_webrole: []
+adx_entitypermissionid: 26f99258-92ca-e511-80da-fc15b4283a54
+adx_parententitypermission: 0dca3b9e-91ca-e511-80da-fc15b4283a54
+adx_parentrelationship: contact_customer_accounts
+adx_read: true
+adx_scope: 756150003
+adx_write: false

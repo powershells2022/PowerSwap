@@ -1,0 +1,44 @@
+- adx_disablepagevalidation: false
+  adx_displayimageonly: false
+  adx_displayorder: 3
+  adx_displaypagechildlinks: false
+  adx_name: Manage access
+  adx_openinnewwindow: false
+  adx_pageid: 387fdf32-8ac0-e511-9403-000d3a3109a6
+  adx_publishingstateid: cab8b3b7-1e81-414b-a140-3179f0fec12d
+  adx_robotsfollowlink: true
+  adx_weblinkid: 15b039dd-14cb-e511-9405-000d3a310f57
+  adx_weblinksetid: 642831a5-4536-482d-a981-03abccdf0c5d
+- adx_disablepagevalidation: false
+  adx_displayimageonly: false
+  adx_displayorder: 1
+  adx_displaypagechildlinks: false
+  adx_name: Profile
+  adx_openinnewwindow: false
+  adx_pageid: 33c61aa8-b0bd-4fe7-b1d0-76829790d3a1
+  adx_publishingstateid: cab8b3b7-1e81-414b-a140-3179f0fec12d
+  adx_robotsfollowlink: true
+  adx_weblinkid: 42f49f65-ff9a-40f2-b58a-b748ab41e42b
+  adx_weblinksetid: 642831a5-4536-482d-a981-03abccdf0c5d
+- adx_disablepagevalidation: false
+  adx_displayimageonly: false
+  adx_displayorder: 2
+  adx_displaypagechildlinks: false
+  adx_name: Parent account
+  adx_openinnewwindow: false
+  adx_pageid: 0b679f95-a5bf-e511-9403-000d3a3109a6
+  adx_publishingstateid: cab8b3b7-1e81-414b-a140-3179f0fec12d
+  adx_robotsfollowlink: true
+  adx_weblinkid: 4725a0c8-a6bf-e511-80e9-c4346bac3990
+  adx_weblinksetid: 642831a5-4536-482d-a981-03abccdf0c5d
+- adx_disablepagevalidation: false
+  adx_displayimageonly: false
+  adx_displayorder: 4
+  adx_displaypagechildlinks: false
+  adx_name: Register to be a partner
+  adx_openinnewwindow: false
+  adx_pageid: 729f0d65-14cb-e511-9405-000d3a310f57
+  adx_publishingstateid: cab8b3b7-1e81-414b-a140-3179f0fec12d
+  adx_robotsfollowlink: true
+  adx_weblinkid: c21cd4b5-14cb-e511-9405-000d3a310f57
+  adx_weblinksetid: 642831a5-4536-482d-a981-03abccdf0c5d

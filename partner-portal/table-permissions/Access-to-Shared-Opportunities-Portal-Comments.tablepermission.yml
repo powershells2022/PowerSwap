@@ -1,0 +1,13 @@
+adx_append: true
+adx_appendto: true
+adx_create: true
+adx_delete: true
+adx_entitylogicalname: adx_portalcomment
+adx_entityname: Access to Shared Opportunities Portal Comments
+adx_entitypermission_webrole: []
+adx_entitypermissionid: 6f89a9a7-54f2-e511-80d3-00155dbf444c
+adx_parententitypermission: 00316b83-92ca-e511-80da-fc15b4283a54
+adx_parentrelationship: opportunity_adx_portalcomments
+adx_read: true
+adx_scope: 756150003
+adx_write: true

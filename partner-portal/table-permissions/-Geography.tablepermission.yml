@@ -1,0 +1,12 @@
+adx_append: true
+adx_appendto: true
+adx_create: false
+adx_delete: false
+adx_entitylogicalname: adx_geography
+adx_entityname: ' Geography'
+adx_entitypermission_webrole:
+- a1933082-4d0c-4b8d-bde0-b3564b1e0b6a
+adx_entitypermissionid: 5fc290d3-cd57-e611-80d7-00155db70ed0
+adx_read: true
+adx_scope: 756150000
+adx_write: false

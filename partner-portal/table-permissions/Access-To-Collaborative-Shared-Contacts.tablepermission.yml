@@ -1,0 +1,13 @@
+adx_append: false
+adx_appendto: false
+adx_create: false
+adx_delete: false
+adx_entitylogicalname: contact
+adx_entityname: Access To Collaborative Shared Contacts
+adx_entitypermission_webrole: []
+adx_entitypermissionid: fb4131ac-b18b-e611-80d7-00155db485b7
+adx_parententitypermission: c39ed9df-596e-e611-80db-00155db72462
+adx_parentrelationship: adx_internal_collaboration
+adx_read: true
+adx_scope: 756150003
+adx_write: false

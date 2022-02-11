@@ -1,0 +1,12 @@
+- adx_allowsvoting: false
+  adx_displayorder: 1
+  adx_forumthreadtypeid: e123cc5d-13c5-4308-8a8f-4940ff33866f
+  adx_isdefault: true
+  adx_name: Discussion
+  adx_requiresanswer: false
+- adx_allowsvoting: true
+  adx_displayorder: 2
+  adx_forumthreadtypeid: e469692c-1bda-464a-b82e-d8a43cf09b54
+  adx_isdefault: false
+  adx_name: Question
+  adx_requiresanswer: true

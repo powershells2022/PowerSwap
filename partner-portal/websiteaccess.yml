@@ -1,0 +1,15 @@
+- adx_managecontentsnippets: true
+  adx_managesitemarkers: true
+  adx_manageweblinksets: true
+  adx_name: Administrative permissions for Partner Portal
+  adx_previewunpublishedentities: true
+  adx_websiteaccess_webrole:
+  - 422b8327-4732-4d39-8cf4-5c1ef05723b8
+  adx_websiteaccessid: 9d7befba-de10-4efa-9087-c38d919d5dea
+- adx_managecontentsnippets: false
+  adx_managesitemarkers: false
+  adx_manageweblinksets: false
+  adx_name: Preview permission for Partner Portal
+  adx_previewunpublishedentities: true
+  adx_websiteaccess_webrole: []
+  adx_websiteaccessid: b8f7f7eb-94d1-4180-b40c-4f3269240ec3

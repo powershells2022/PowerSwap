@@ -1,0 +1,15 @@
+adx_accountrelationship: contact_customer_accounts
+adx_append: true
+adx_appendto: true
+adx_create: true
+adx_delete: false
+adx_entitylogicalname: contact
+adx_entityname: Partner Admin Access to Partner Contacts
+adx_entitypermission_webrole:
+- 422b8327-4732-4d39-8cf4-5c1ef05723b8
+- 73ad260d-f2c6-e511-80ea-c4346bac3990
+- c253b523-f2c6-e511-80ea-c4346bac3990
+adx_entitypermissionid: 702fba03-8eca-e511-80da-fc15b4283a54
+adx_read: true
+adx_scope: 756150002
+adx_write: true

@@ -1,0 +1,34 @@
+adx_appendquerystring: false
+adx_associatecurrentportaluser: true
+adx_attachfile: false
+adx_attachfileallowmultiple: false
+adx_attachfilerequired: false
+adx_attachfilerestrictaccept: false
+adx_autogeneratesteps: false
+adx_captcharequired: false
+adx_entityformid: 9768c0da-9dc4-e511-80e3-c4346bac3998
+adx_entityname: contact
+adx_entitypermissionsenabled: true
+adx_forceallfieldsrequired: false
+adx_formname: Customer Contact Web Form
+adx_geolocation_displaymap: false
+adx_geolocation_enabled: false
+adx_hideformonsuccess: true
+adx_name: Customer Contact Create Form
+adx_onsuccess: 756150001
+adx_populatereferenceentitylookupfield: false
+adx_portaluserlookupattributeisactivityparty: false
+adx_recommendedfieldsrequired: false
+adx_recordsourceallowcreateonnull: false
+adx_redirecturlappendentityidquerystring: false
+adx_redirectwebpage: 92a93620-89c0-e511-9403-000d3a3109a6
+adx_referenceentityshowreadonlyform: false
+adx_referencequerystringisprimarykey: false
+adx_renderwebresourcesinline: false
+adx_setentityreference: false
+adx_showcaptchaforauthenticatedusers: false
+adx_showownerfields: false
+adx_showunsupportedfields: false
+adx_targetentityportaluserlookupattribute: adx_createdbyportalcontactid
+adx_tooltipenabled: false
+adx_validationsummarylinksenabled: true

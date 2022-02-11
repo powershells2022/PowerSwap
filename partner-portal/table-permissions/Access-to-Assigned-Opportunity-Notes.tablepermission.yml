@@ -1,0 +1,13 @@
+adx_append: true
+adx_appendto: true
+adx_create: true
+adx_delete: false
+adx_entitylogicalname: annotation
+adx_entityname: Access to Assigned Opportunity Notes
+adx_entitypermission_webrole: []
+adx_entitypermissionid: ad1132d8-94ca-e511-80da-fc15b4283a54
+adx_parententitypermission: 02f8055d-94ca-e511-80da-fc15b4283a54
+adx_parentrelationship: Opportunity_Annotation
+adx_read: true
+adx_scope: 756150003
+adx_write: true

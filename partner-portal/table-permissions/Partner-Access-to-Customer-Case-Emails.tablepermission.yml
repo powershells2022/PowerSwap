@@ -1,0 +1,13 @@
+adx_append: false
+adx_appendto: false
+adx_create: false
+adx_delete: false
+adx_entitylogicalname: email
+adx_entityname: Partner Access to Customer Case Emails
+adx_entitypermission_webrole: []
+adx_entitypermissionid: 8c5f12c0-b913-e611-80d4-00155db452e5
+adx_parententitypermission: cc479703-b813-e611-80d4-00155db452e5
+adx_parentrelationship: Incident_Emails
+adx_read: true
+adx_scope: 756150003
+adx_write: false

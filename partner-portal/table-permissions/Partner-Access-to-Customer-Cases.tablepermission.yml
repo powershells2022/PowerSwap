@@ -1,0 +1,13 @@
+adx_append: true
+adx_appendto: true
+adx_create: false
+adx_delete: true
+adx_entitylogicalname: incident
+adx_entityname: Partner Access to Customer Cases
+adx_entitypermission_webrole: []
+adx_entitypermissionid: cc479703-b813-e611-80d4-00155db452e5
+adx_parententitypermission: 0dca3b9e-91ca-e511-80da-fc15b4283a54
+adx_parentrelationship: incident_customer_accounts
+adx_read: true
+adx_scope: 756150003
+adx_write: true

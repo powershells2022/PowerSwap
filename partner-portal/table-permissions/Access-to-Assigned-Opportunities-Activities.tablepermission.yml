@@ -1,0 +1,13 @@
+adx_append: false
+adx_appendto: false
+adx_create: false
+adx_delete: false
+adx_entitylogicalname: activitypointer
+adx_entityname: Access to Assigned Opportunities Activities
+adx_entitypermission_webrole: []
+adx_entitypermissionid: c453e458-d4f6-e511-80d3-00155dbab1fa
+adx_parententitypermission: 02f8055d-94ca-e511-80da-fc15b4283a54
+adx_parentrelationship: Opportunity_ActivityPointers
+adx_read: true
+adx_scope: 756150003
+adx_write: false

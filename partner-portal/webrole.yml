@@ -1,0 +1,32 @@
+- adx_anonymoususersrole: false
+  adx_authenticatedusersrole: false
+  adx_name: Administrators
+  adx_webroleid: 422b8327-4732-4d39-8cf4-5c1ef05723b8
+- adx_anonymoususersrole: true
+  adx_authenticatedusersrole: false
+  adx_name: Anonymous Users
+  adx_webroleid: 69e1d120-6098-41a0-9d7d-78bf5ea1702b
+- adx_anonymoususersrole: false
+  adx_authenticatedusersrole: false
+  adx_key: partneradmin
+  adx_name: Partner Admin
+  adx_webroleid: 73ad260d-f2c6-e511-80ea-c4346bac3990
+- adx_anonymoususersrole: false
+  adx_authenticatedusersrole: true
+  adx_name: Authenticated Users
+  adx_webroleid: a1933082-4d0c-4b8d-bde0-b3564b1e0b6a
+- adx_anonymoususersrole: false
+  adx_authenticatedusersrole: false
+  adx_key: nonpartneruser
+  adx_name: Non-Partner Portal User
+  adx_webroleid: b95ba825-adce-e511-80e3-c4346bac3998
+- adx_anonymoususersrole: false
+  adx_authenticatedusersrole: false
+  adx_key: partnermanager
+  adx_name: Partner Manager
+  adx_webroleid: c253b523-f2c6-e511-80ea-c4346bac3990
+- adx_anonymoususersrole: false
+  adx_authenticatedusersrole: false
+  adx_key: partnerseller
+  adx_name: Partner Seller
+  adx_webroleid: db465217-f2c6-e511-80ea-c4346bac3990

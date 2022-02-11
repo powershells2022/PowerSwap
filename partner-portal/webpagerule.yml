@@ -1,0 +1,67 @@
+- adx_name: Restrict Read to Non-Partner Portal Users for Register to be a Partner Page
+  adx_right: 2
+  adx_webpageaccesscontrolrule_webrole:
+  - b95ba825-adce-e511-80e3-c4346bac3998
+  adx_webpageaccesscontrolruleid: 3f6f4e1a-d065-e611-80d8-00155db70ed0
+  adx_webpageid: 729f0d65-14cb-e511-9405-000d3a310f57
+- adx_description: Restrict Read to Partners for Opportunities Page
+  adx_name: Restrict Read to Partners for Opportunities Page
+  adx_right: 2
+  adx_webpageaccesscontrolrule_webrole:
+  - 73ad260d-f2c6-e511-80ea-c4346bac3990
+  - db465217-f2c6-e511-80ea-c4346bac3990
+  - c253b523-f2c6-e511-80ea-c4346bac3990
+  adx_webpageaccesscontrolruleid: 60d520b7-cebf-e511-80e9-c4346bac3990
+  adx_webpageid: dac5626a-3d36-4a9b-b6e7-a42e169c2767
+- adx_name: Restrict Read to Partners for Customer Service
+  adx_right: 2
+  adx_webpageaccesscontrolrule_webrole:
+  - 422b8327-4732-4d39-8cf4-5c1ef05723b8
+  - 73ad260d-f2c6-e511-80ea-c4346bac3990
+  - db465217-f2c6-e511-80ea-c4346bac3990
+  - c253b523-f2c6-e511-80ea-c4346bac3990
+  adx_webpageaccesscontrolruleid: 6faabee8-3df2-e511-80d3-00155dbf444c
+  adx_webpageid: 245c7eed-9df0-e511-80d2-00155d096ede
+- adx_name: Restrict Read to Partners for Parent Account Page
+  adx_right: 2
+  adx_webpageaccesscontrolrule_webrole:
+  - 73ad260d-f2c6-e511-80ea-c4346bac3990
+  - db465217-f2c6-e511-80ea-c4346bac3990
+  - c253b523-f2c6-e511-80ea-c4346bac3990
+  adx_webpageaccesscontrolruleid: 70691891-78c0-e511-80e3-fc15b428aa54
+  adx_webpageid: 0b679f95-a5bf-e511-9403-000d3a3109a6
+- adx_description: Restrict Read to Partners for Managed Customers Page
+  adx_name: Restrict Read to Partners for Managed Customers Page
+  adx_right: 2
+  adx_webpageaccesscontrolrule_webrole:
+  - 422b8327-4732-4d39-8cf4-5c1ef05723b8
+  - 73ad260d-f2c6-e511-80ea-c4346bac3990
+  - db465217-f2c6-e511-80ea-c4346bac3990
+  - c253b523-f2c6-e511-80ea-c4346bac3990
+  adx_webpageaccesscontrolruleid: 7dd2263e-cebf-e511-80e9-c4346bac3990
+  adx_webpageid: b78dd59d-80a6-48b3-a6ce-e5982445fe6f
+- adx_name: Grant Change to Content
+  adx_right: 1
+  adx_webpageaccesscontrolrule_webrole: []
+  adx_webpageaccesscontrolruleid: 8ce3a7c1-5fc1-40c0-bed5-6ddbebf50109
+  adx_webpageid: ed7b3f75-d8d0-4609-bc2e-249274031734
+- adx_name: Restrict Read of Manage Permissions to Partner Administrators
+  adx_right: 2
+  adx_webpageaccesscontrolrule_webrole:
+  - 422b8327-4732-4d39-8cf4-5c1ef05723b8
+  - 73ad260d-f2c6-e511-80ea-c4346bac3990
+  adx_webpageaccesscontrolruleid: c6bb90d0-acce-e511-80e3-c4346bac3998
+  adx_webpageid: 387fdf32-8ac0-e511-9403-000d3a3109a6
+- adx_name: Restrict Read to Managers for Distributed Opportunities
+  adx_right: 2
+  adx_webpageaccesscontrolrule_webrole:
+  - 73ad260d-f2c6-e511-80ea-c4346bac3990
+  - c253b523-f2c6-e511-80ea-c4346bac3990
+  adx_webpageaccesscontrolruleid: cc3ea07f-acce-e511-80e3-c4346bac3998
+  adx_webpageid: f3cefbd8-75c0-e511-9403-000d3a3109a6
+- adx_name: Grant Change to Administrators
+  adx_right: 1
+  adx_webpageaccesscontrolrule_webrole:
+  - 422b8327-4732-4d39-8cf4-5c1ef05723b8
+  adx_webpageaccesscontrolruleid: edc8c864-6cdf-4999-a2ac-f150c15b5b4b
+  adx_webpageid: 8a8aa795-989f-4288-82c1-cd98c91314f8

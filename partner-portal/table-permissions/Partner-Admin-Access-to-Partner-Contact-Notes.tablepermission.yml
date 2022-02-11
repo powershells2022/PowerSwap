@@ -1,0 +1,13 @@
+adx_append: true
+adx_appendto: true
+adx_create: true
+adx_delete: true
+adx_entitylogicalname: annotation
+adx_entityname: Partner Admin Access to Partner Contact Notes
+adx_entitypermission_webrole: []
+adx_entitypermissionid: 1b73783f-8eca-e511-80da-fc15b4283a54
+adx_parententitypermission: 702fba03-8eca-e511-80da-fc15b4283a54
+adx_parentrelationship: Contact_Annotation
+adx_read: true
+adx_scope: 756150003
+adx_write: true

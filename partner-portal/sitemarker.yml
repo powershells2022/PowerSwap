@@ -1,0 +1,48 @@
+- adx_name: Access Denied
+  adx_pageid: aa92dcca-560a-4a0e-8b5f-075821bc5d9d
+  adx_sitemarkerid: 111e2949-e966-4bd3-86ee-e834224eeb74
+- adx_name: News
+  adx_pageid: ed7b3f75-d8d0-4609-bc2e-249274031734
+  adx_sitemarkerid: 176f9f63-e0fa-45c6-89f8-e23be600e55f
+- adx_name: Profile
+  adx_pageid: 33c61aa8-b0bd-4fe7-b1d0-76829790d3a1
+  adx_sitemarkerid: 398e9805-52a3-496d-9778-6e4b50671a66
+- adx_name: Contact Us
+  adx_pageid: db8ac322-8d0d-e611-80d2-00155dbe3b00
+  adx_sitemarkerid: 3e3ef53a-8d0d-e611-80d2-00155dbe3b00
+- adx_name: Home
+  adx_pageid: 8a8aa795-989f-4288-82c1-cd98c91314f8
+  adx_sitemarkerid: 45244e44-e121-4d70-9771-856fe7a398c8
+- adx_name: Partner Registration
+  adx_pageid: 729f0d65-14cb-e511-9405-000d3a310f57
+  adx_sitemarkerid: 47c9f0e3-cc57-e611-80d7-00155db70ed0
+- adx_name: Knowledge Article
+  adx_pageid: 351c0d13-670d-e611-80d2-00155dbe3b00
+  adx_sitemarkerid: 4bc7b9f0-9ef0-e511-80d2-00155d096ede
+- adx_name: Page Not Found
+  adx_pageid: 587eadb0-441a-4866-9d72-4b0ef269ba3b
+  adx_sitemarkerid: 520279a3-169c-45c7-ad6d-ab56831faeac
+- adx_name: Public Profile
+  adx_pageid: fb589d0b-c3c0-e311-9425-00155d038c01
+  adx_sitemarkerid: 65603831-c3c0-e311-9425-00155d038c01
+- adx_name: Create Case
+  adx_pageid: 6fc7725c-9ef0-e511-80d2-00155d096ede
+  adx_sitemarkerid: 89c1f058-840d-e611-80d2-00155dbe3b00
+- adx_name: Forums
+  adx_pageid: af5b8b1c-8cc9-4fcd-86c2-1463c03e2ecd
+  adx_sitemarkerid: 94229c9d-840d-e611-80d2-00155dbe3b00
+- adx_name: Search
+  adx_pageid: f437ebca-5edb-47be-971f-479c5a97298a
+  adx_sitemarkerid: 9d17c85a-779f-4cb0-864e-1ea9fabdf8b0
+- adx_name: Case
+  adx_pageid: a6e60037-9ef0-e511-80d2-00155d096ede
+  adx_sitemarkerid: a367ec80-840d-e611-80d2-00155dbe3b00
+- adx_name: Poll Archives
+  adx_pageid: f46bf8d5-ba27-40df-b45d-54343964f7c2
+  adx_sitemarkerid: b268dc2a-fed4-46d0-bcda-f6a4d822ae41
+- adx_name: Knowledge
+  adx_pageid: 93e04c0e-5e0d-e611-80d2-00155dbe3b00
+  adx_sitemarkerid: f45938b5-840d-e611-80d2-00155dbe3b00
+- adx_name: Category
+  adx_pageid: 90d28658-670d-e611-80d2-00155dbe3b00
+  adx_sitemarkerid: fe52b236-840d-e611-80d2-00155dbe3b00

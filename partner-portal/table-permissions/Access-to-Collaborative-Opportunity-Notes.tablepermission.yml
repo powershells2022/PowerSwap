@@ -1,0 +1,13 @@
+adx_append: true
+adx_appendto: true
+adx_create: true
+adx_delete: false
+adx_entitylogicalname: annotation
+adx_entityname: Access to Collaborative Opportunity Notes
+adx_entitypermission_webrole: []
+adx_entitypermissionid: a987c8e8-666e-e611-80db-00155db72462
+adx_parententitypermission: c39ed9df-596e-e611-80db-00155db72462
+adx_parentrelationship: Opportunity_Annotation
+adx_read: true
+adx_scope: 756150003
+adx_write: true

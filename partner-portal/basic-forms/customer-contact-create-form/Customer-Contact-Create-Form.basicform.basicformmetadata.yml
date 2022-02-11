@@ -1,0 +1,10 @@
+- adx_adddescription: false
+  adx_attributelogicalname: parentcustomerid
+  adx_entityform: 9768c0da-9dc4-e511-80e3-c4346bac3998
+  adx_entityformmetadataid: 4ee7f54e-47f2-e511-80d3-00155dbf444c
+  adx_fieldisrequired: false
+  adx_ignoredefaultvalue: false
+  adx_randomizeoptionsetvalues: false
+  adx_setvalueonsave: false
+  adx_type: 100000000
+  adx_useattributedescriptionproperty: true

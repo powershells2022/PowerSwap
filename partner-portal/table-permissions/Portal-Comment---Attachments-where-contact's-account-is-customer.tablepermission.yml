@@ -1,0 +1,13 @@
+adx_append: true
+adx_appendto: true
+adx_create: true
+adx_delete: false
+adx_entitylogicalname: annotation
+adx_entityname: Portal Comment - Attachments where contact's account is customer
+adx_entitypermission_webrole: []
+adx_entitypermissionid: 714a5904-9af0-e511-80d2-00155d096ede
+adx_parententitypermission: cfa5557d-99f0-e511-80d2-00155d096ede
+adx_parentrelationship: adx_portalcomment_Annotations
+adx_read: true
+adx_scope: 756150003
+adx_write: true

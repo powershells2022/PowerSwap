@@ -1,0 +1,13 @@
+adx_append: true
+adx_appendto: true
+adx_create: true
+adx_delete: false
+adx_entitylogicalname: adx_dealregistrationrequest
+adx_entityname: Partner Manager Access to Opportunities Channel Deal Registration Requests
+adx_entitypermission_webrole: []
+adx_entitypermissionid: 1a33e094-a337-4cbf-b8bc-ac155e55cd58
+adx_parententitypermission: 6e0048fd-94ca-e511-80da-fc15b4283a54
+adx_parentrelationship: adx_adx_dealregistrationrequest_opportunity_DealRegistrationRequestId
+adx_read: true
+adx_scope: 756150003
+adx_write: true

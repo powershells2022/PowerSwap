@@ -1,0 +1,13 @@
+<div class="form">
+ {% entityform id:page.adx_entityform.id %}
+ {% if user %}
+ {% if user.adx_partner_applicationstatus.value == 1 or user.adx_partner_applicationstatus.value == 2  %}
+
+ <div class="alert alert-info clearfix">
+  <div class="pull-left"><strong>{{ snippets["Application Status"] | h }}</strong></div>
+  <div class="pull-right"><span class="label label-info">  {{ user.adx_partner_applicationstatus.label | escape }}</span></div>
+ </div>
+
+ {% endif %}
+ {% endif %}
+</div>
